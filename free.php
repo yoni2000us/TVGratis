@@ -1,4 +1,4 @@
-# TVGratis#EXTM3U
+#EXTM3U
 
 #EXTINF:-1,video rola
 rtmp://200.52.193.57:1935/live/unique/live_2938
